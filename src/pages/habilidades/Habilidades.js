@@ -76,7 +76,7 @@ export default function Habilidades() {
                 aria-controls="panel-3"
                 id="tab-3"
                 tabIndex="-1"
-                className="relative block h-10 px-6 tab rounded-full sm:mb-0 mb-2"
+                className="relative block h-10 px-6 tab rounded-full mb-0 "
               >
                 <span className="text-Blue">Outros</span>
               </button>
